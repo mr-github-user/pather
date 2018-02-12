@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pather": {
+      "commandName": "Project",
+      "commandLineArgs": "add"
+    }
+  }
+}
